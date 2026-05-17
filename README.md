@@ -15,7 +15,7 @@ trained on manually digitized training samples from high-resolution imagery.
 
 ## 🖼️ Preview
 <!-- Ganti dengan path screenshot setelah diupload ke repo -->
-![LULC Classification Map — Banten](preview/classification_map.png)
+![LULC Classification Map — Banten](preview/classification-map.png)
 
 ## 📦 Data
 | Source | Type | Description |
